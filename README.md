@@ -176,5 +176,3 @@ pip install faiss-cpu
 
 <hr>
 
-<h2>License</h2>
-<p>MIT License (or your preferred license).</p>
